@@ -5,8 +5,11 @@ This project is taken from the kaggle competition asking players to use regressi
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 
 This project explored the data to understand which features can be used in a predictive model, then it prepared the data, and tried three different regression techniques to model the sales price:
+
 • Linear regression
+
 • Random Forests
+
 • Gradient boosted trees. 
 
 #Data
@@ -18,12 +21,19 @@ There is also a helpful data dictionary in the repository which gave some backgr
 Python script which also contains descriptions of each step, and a conclusion
 
 # Libraries required 
+
 •	Pandas
+
 • Numpy
+
 •	Math
+
 •	Seaborn
+
 •	Matplotlib
+
 •	Sklearn
+
 
 # Results
 Using a gradient boosted model it was possible to predict the sales prices with 90.31% accuracy. This was the best model fitted out of the three discussed
