@@ -36,4 +36,7 @@ Python script which also contains descriptions of each step, and a conclusion
 
 
 # Results
-Using a gradient boosted model it was possible to predict the sales prices with 90.31% accuracy. This was the best model fitted out of the three discussed
+Using a gradient boosted model it was possible to predict the sales prices with 90.31% accuracy. This was the best model fitted out of the three discussed.
+
+A full write up is in this blog post:
+https://medium.com/@chloe.gillham/predicting-house-pries-in-ames-iowa-da6698f0bcea
